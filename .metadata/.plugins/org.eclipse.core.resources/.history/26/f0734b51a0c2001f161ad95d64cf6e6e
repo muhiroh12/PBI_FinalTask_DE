@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Property xmi:id="_Epw-AsKgEe-AU44EqecN5w" id="_kxWa8MKfEe-AU44EqecN5w" label="test" version="0.1" statusCode="" item="_Epw-BMKgEe-AU44EqecN5w" displayName="test">
+    <author href="../../talend.project#_6hmfML2REe-dfpIBgOySjA"/>
+    <additionalProperties xmi:id="_Ep3EoMKgEe-AU44EqecN5w" key="created_product_fullname" value="Talend Open Studio for Data Integration"/>
+    <additionalProperties xmi:id="_Ep3EocKgEe-AU44EqecN5w" key="created_product_version" value="8.0.1.20211109_1610"/>
+    <additionalProperties xmi:id="_Ep3EosKgEe-AU44EqecN5w" key="created_date" value="2024-12-25T16:10:23.466+0700"/>
+    <additionalProperties xmi:id="_Ep3Eo8KgEe-AU44EqecN5w" key="modified_product_fullname" value="Talend Open Studio for Data Integration"/>
+    <additionalProperties xmi:id="_Ep3EpMKgEe-AU44EqecN5w" key="modified_product_version" value="8.0.1.20211109_1610"/>
+    <additionalProperties xmi:id="_Ep3EpcKgEe-AU44EqecN5w" key="modified_date" value="2024-12-25T16:12:08.432+0700"/>
+  </TalendProperties:Property>
+  <TalendProperties:ItemState xmi:id="_Epw-A8KgEe-AU44EqecN5w" path="" locked="true" lockDate="2024-12-25T16:11:28.438+0700">
+    <locker href="../../talend.project#_6hmfML2REe-dfpIBgOySjA"/>
+  </TalendProperties:ItemState>
+  <TalendProperties:DatabaseConnectionItem xmi:id="_Epw-BMKgEe-AU44EqecN5w" property="_Epw-AsKgEe-AU44EqecN5w" state="_Epw-A8KgEe-AU44EqecN5w" typeName="Microsoft SQL Server">
+    <connection href="test_0.1.item#_EptToMKgEe-AU44EqecN5w"/>
+  </TalendProperties:DatabaseConnectionItem>
+</xmi:XMI>

@@ -1,0 +1,48 @@
+{
+  "itemId" : "_Z_R_gMKfEe-AU44EqecN5w",
+  "contextList" : [ {
+    "contextName" : "Default",
+    "repoId" : "_By66cMKlEe-AU44EqecN5w",
+    "parameterList" : [ {
+      "id" : "_BzeUEcKlEe-AU44EqecN5w",
+      "name" : "host"
+    }, {
+      "id" : "_BzeUEsKlEe-AU44EqecN5w",
+      "name" : "username"
+    }, {
+      "id" : "_BzeUE8KlEe-AU44EqecN5w",
+      "name" : "password"
+    }, {
+      "id" : "_BzeUFMKlEe-AU44EqecN5w",
+      "name" : "dbStaging"
+    }, {
+      "id" : "_BzeUFcKlEe-AU44EqecN5w",
+      "name" : "dbDWH"
+    } ]
+  }, {
+    "contextName" : "Default",
+    "repoId" : "_82GFMMLSEe-AU44EqecN5w",
+    "parameterList" : [ {
+      "id" : "_LFHdwMLVEe-AU44EqecN5w",
+      "name" : "smtpHost"
+    }, {
+      "id" : "_LFHdwcLVEe-AU44EqecN5w",
+      "name" : "smtpPort"
+    }, {
+      "id" : "_tGlYAcLVEe-AU44EqecN5w",
+      "name" : "emailPassword"
+    }, {
+      "id" : "_82npocLSEe-AU44EqecN5w",
+      "name" : "emailTo"
+    }, {
+      "id" : "_82nposLSEe-AU44EqecN5w",
+      "name" : "emailFrom"
+    }, {
+      "id" : "_tGlYAMLVEe-AU44EqecN5w",
+      "name" : "emailUsername"
+    }, {
+      "id" : "_Usc2UMLTEe-AU44EqecN5w",
+      "name" : "emailSubject"
+    } ]
+  } ]
+}

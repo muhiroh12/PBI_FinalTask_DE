@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<talendfile:ContextType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:id="_82npoMLSEe-AU44EqecN5w" confirmationNeeded="false" name="Default">
+  <contextParameter xmi:id="_82npocLSEe-AU44EqecN5w" comment="" name="emailTo" prompt="emailTo?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="cdedivim@gmail.com"/>
+  <contextParameter xmi:id="_82nposLSEe-AU44EqecN5w" comment="" name="emailFrom" prompt="emailFrom?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="muhii.smta@gmail.com"/>
+  <contextParameter xmi:id="_Usc2UMLTEe-AU44EqecN5w" comment="" name="emailSubject" prompt="emailSubject?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="DWHJob-id/x notification"/>
+  <contextParameter xmi:id="_LFHdwMLVEe-AU44EqecN5w" comment="" name="smtpHost" prompt="smtpHost?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="smtp.gmail.com"/>
+  <contextParameter xmi:id="_LFHdwcLVEe-AU44EqecN5w" comment="" name="smtpPort" prompt="smtpPort?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="587"/>
+  <contextParameter xmi:id="_tGlYAMLVEe-AU44EqecN5w" comment="" name="emailUsername" prompt="emailUsername?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="muhii.smta@gmail.com"/>
+  <contextParameter xmi:id="_tGlYAcLVEe-AU44EqecN5w" comment="" name="emailPassword" prompt="emailPassword?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="Bismill4h@"/>
+</talendfile:ContextType>

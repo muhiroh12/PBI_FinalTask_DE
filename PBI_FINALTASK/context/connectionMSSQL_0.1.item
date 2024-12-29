@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<talendfile:ContextType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:id="_8Tp2ML2SEe-dfpIBgOySjA" confirmationNeeded="false" name="Default">
+  <contextParameter xmi:id="_8Tp2Mb2SEe-dfpIBgOySjA" comment="" name="host" prompt="host?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="LAPTOP-V3FS79B4"/>
+  <contextParameter xmi:id="_8Tp2Mr2SEe-dfpIBgOySjA" comment="" name="username" prompt="username?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="sa"/>
+  <contextParameter xmi:id="_8Tp2M72SEe-dfpIBgOySjA" comment="" name="password" prompt="password?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="admin79b4"/>
+  <contextParameter xmi:id="_8Tp2NL2SEe-dfpIBgOySjA" comment="" name="databaseInput" prompt="databaseInput?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="sample"/>
+  <contextParameter xmi:id="_8Tp2Nb2SEe-dfpIBgOySjA" comment="" name="databaseDWH" prompt="databaseDWH?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="DWHProject"/>
+</talendfile:ContextType>

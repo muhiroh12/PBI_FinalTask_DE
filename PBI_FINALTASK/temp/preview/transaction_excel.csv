@@ -1,0 +1,8 @@
+"transaction_id";"account_id";"transaction_date";"amount";"transaction_type";"branch_id"
+"6";"6";"Thu Jan 18 13:10:00 WIB 2024";"50000";"Withdrawal";"1"
+"7";"6";"Fri Jan 19 14:00:00 WIB 2024";"100000";"Payment";"1"
+"11";"10";"Sat Jan 20 15:00:00 WIB 2024";"1000000";"Transfer";"1"
+"12";"11";"Sat Jan 20 10:00:00 WIB 2024";"500000";"Deposit";"1"
+"13";"12";"Sat Jan 20 12:10:00 WIB 2024";"500000";"Withdrawal";"5"
+"14";"13";"Sun Jan 21 14:00:00 WIB 2024";"1500000";"Deposit";"4"
+"15";"14";"Sun Jan 21 08:00:00 WIB 2024";"500000";"Transfer";"3"
